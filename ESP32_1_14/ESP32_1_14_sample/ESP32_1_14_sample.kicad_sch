@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "96c29560-c3da-4415-981b-df3d35c5d54a")
+	(paper "A4")
+	(title_block
+		(title "ESP32-S3 ExPan")
+		(date "2026-01-14")
+		(company "AppanageARK")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
