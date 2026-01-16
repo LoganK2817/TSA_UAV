@@ -50,7 +50,7 @@ def CHECK_LAN():
     
 def main():
     LED()
-    VOLT()
+    """VOLT()"""
     """CHECK_LAN()"""
 
 main()

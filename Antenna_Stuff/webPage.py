@@ -25,7 +25,10 @@ while True:
     response = """\
 HTTP/1.1 200 OK
 
-<html><body><h1>Hello from ESP32!</h1></body></html>
+<iframe src="https://www.appanageark.com" width="600" height="400" title="Description of the embedded content">
+  Your browser does not support iframes, but you can visit the website directly [Link to website].
+</iframe>
+
 """
     cl.send(response)
     cl.close()
