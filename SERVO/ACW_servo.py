@@ -1,7 +1,7 @@
 import utime
 import machine
 
-# MAP = {0: 1000, 180: 7500}
+# MAP = {0: 30, 180: 130}
 MAP = {0: 1000, 90:4250, 180: 7500}
 SERVOPIN = 14
 FREQ = 50
